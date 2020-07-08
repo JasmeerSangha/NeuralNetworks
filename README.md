@@ -4,7 +4,7 @@
 Build a machine learning model that will be able to predict the success of a venture paid by Alphabet soup. The model should be able to determine the future decisions of the company by identifying projects likely to be a success, thus eligible to receive any future funding from Alphabet Soup.
 
 ## Resources
-- Data: [alphabetSoup csv]https://github.com/JasmeerSangha/NeuralNetworks/blob/master/charity_data.csv
+- Data: [alphabetSoup csv](https://github.com/JasmeerSangha/NeuralNetworks/blob/master/charity_data.csv)
 - Python 3 scikit library
 
 ## Summary
